@@ -1,0 +1,19 @@
+body{
+    background-image: url("Bg2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.white{
+    color: white;
+}
+div{
+    width: 60%;
+    overflow: hidden;
+}
+.btn{
+    margin-bottom: 10px;
+}
+.form-control{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
